@@ -1,5 +1,8 @@
-//This program divides number, and outputs an error 
-//message if the user tries to divide by zero
+/*
+* This program divides number, and outputs an error 
+* essage if the user tries to divide by zero
+*/
+
 import java.util.Scanner;
 
 public class Zero

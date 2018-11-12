@@ -1,3 +1,7 @@
+/*
+* Simple program that tokenizes a string by word, places them in an array, then prints them
+*/
+
 import java.util.*;
 
 public class WordSet {
