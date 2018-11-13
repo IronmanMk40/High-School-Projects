@@ -1,5 +1,7 @@
-// This program calculates how many points a bookpurchaser should
-// recieve based on the amount of books they buy
+/* 
+* This program calculates how many points a bookpurchaser should
+* recieve based on the amount of books they buy
+*/
 
 import java.util.Scanner;
 
