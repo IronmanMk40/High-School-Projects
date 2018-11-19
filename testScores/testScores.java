@@ -14,7 +14,7 @@ import java.util.ArrayList;
 import java.io.*;
 
 //Test Scores class
-public class TestScores {
+public class testScores {
 
 	//Main Method
 	public static void main(String[] args) throws IOException {
